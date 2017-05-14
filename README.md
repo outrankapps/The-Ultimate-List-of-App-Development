@@ -25,6 +25,7 @@ href="#ReduceImageSize">Image Editing</a></li><li><a
 href="#GameEngines">Game Engines, App Builders and Libraries</a></li><li><a
 href="#BackgroundMusic">Background Music and Sound Effects</a></li><li><a
 href="#CommunitiesAndForums">Communities, Forums and Tutorials</a></li></ol><p>&nbsp;</p><h2 id="MarketResearch">1. Market Research</h2><ul><li><a
+href="http://apptopia.com/">Apptopia</a> &#8211; Very Comprehensive &amp; Actionable App Market Intelligence</li><li><a
 href="http://www.appannie.com/">App Annie</a> &#8211; App Ranking, Analytics, Market Intelligence</li><li><a
 href="http://www.appbackr.com/">Appbackr</a> &#8211; Discovering great apps</li><li><a
 href="https://appfigures.com/">AppFigures</a> &#8211; App Store Analytics for iOS and Android developers</li><li><a
@@ -698,7 +699,7 @@ href="http://www.mobadagency.com/">MobAdAgency</a> &#8211; Get a Better Return o
 href="http://www.appcoda.com/marketplace/">AppCoda Marketplace</a> &#8211; Blog dedicated to iOS programming &#8211; Marketplace</li><li><a
 href="http://appsplit.com/browse/sale">Appsplit</a> &#8211; Crowdsourcing Platform For Apps</li><li><a
 href="http://apptaskit.com/">AppTaskIt</a> &#8211; One Stop Shop For All Your App Design, Development and Marketing Needs</li><li><a
-href="http://apptopia.com/">Apptopia</a> &#8211; Very Comprehensive &amp; Actionable App Store Data</li><li><a
+href="http://fliptopia.com/">Fliptopia</a> &#8211; The easiest way to buy & sell apps securely</li><li><a
 href="http://www.binpress.com/">Binpress</a> &#8211; iOS, Android, Web and Desktop Source Code</li><li><a
 href="http://www.bluecloudsolutions.com/">Blue Cloud Solutions</a> &#8211; iPhone App Marketing</li><li><a
 href="http://www.chupamobile.com/">ChupaMobile</a> &#8211; Buy and Sell Apps and Games for iOS and Android</li><li><a
